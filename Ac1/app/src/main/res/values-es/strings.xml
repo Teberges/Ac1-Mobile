@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Administrador de Libros</string>
+    <string name="title">Título</string>
+    <string name="author">Autor</string>
+    <string name="category">Categoría</string>
+    <string name="save">Guardar</string>
+    <string name="edit_book">Editar Libro</string>
+    <string name="add_book">Añadir Libro</string>
+    <string name="books">Libros</string>
+    <string-array name="book_categories">
+        <item>Ficción</item>
+        <item>Técnico</item>
+        <item>Autoayuda</item>
+    </string-array>
+</resources>
